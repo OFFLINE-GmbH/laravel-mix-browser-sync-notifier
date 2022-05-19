@@ -1,5 +1,5 @@
 {
-  "name": "laravel-mix-browser-sync-notifier",
+  "name": "@offlinech/laravel-mix-browser-sync-notifier",
   "version": "1.0.0",
   "description": "Display a Browser Sync notification for compilation errors in Laravel Mix",
   "main": "src/main.js",
