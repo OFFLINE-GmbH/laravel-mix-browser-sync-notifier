@@ -1,0 +1,27 @@
+{
+  "name": "laravel-mix-browser-sync-notifier",
+  "version": "1.0.0",
+  "description": "Display a Browser Sync notification for compilation errors in Laravel Mix",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/OFFLINE-GmbH/laravel-mix-browser-sync-notifier.git"
+  },
+  "keywords": [
+    "laravel",
+    "mix",
+    "browser",
+    "sync",
+    "notification",
+    "errors"
+  ],
+  "author": "Tobias Kuendig <tobias@offline.ch>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OFFLINE-GmbH/laravel-mix-browser-sync-notifier/issues"
+  },
+  "homepage": "https://github.com/OFFLINE-GmbH/laravel-mix-browser-sync-notifier#readme"
+}
